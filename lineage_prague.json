@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": ,
-      "filename": " ",
-      "id": " ",
+      "datetime": 1563359698,
+      "filename": "lineage-15.1-20190717-UNOFFICIAL-prague.zip",
+      "id": "aa9f27e228c512cf9efc7e216de1c1d5",
       "romtype": "unofficial",
-      "size": ,
-      "url": " ",
+      "size": 488909755,
+      "url": "https://github.com/DarkJoker360/android_devices_OTA/releases/download/0.0/lineage-15.1-20190717-UNOFFICIAL-prague.zip",
       "version": "15.1"
     }
   ]
