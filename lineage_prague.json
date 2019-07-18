@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1563359698,
-      "filename": "lineage-15.1-20190717-UNOFFICIAL-prague.zip",
-      "id": "aa9f27e228c512cf9efc7e216de1c1d5",
+      "datetime": 1563439105,
+      "filename": "lineage-15.1-20190718-UNOFFICIAL-prague.zip",
+      "id": "4d0372468021109fe89e70cb95c0e2c4",
       "romtype": "unofficial",
-      "size": 488909755,
-      "url": "https://github.com/DarkJoker360/android_devices_OTA/releases/download/0.0/lineage-15.1-20190717-UNOFFICIAL-prague.zip",
+      "size": 488909554,
+      "url": "https://github.com/DarkJoker360/android_devices_OTA/releases/download/0.1/lineage-15.1-20190718-UNOFFICIAL-prague.zip",
       "version": "15.1"
     }
   ]
