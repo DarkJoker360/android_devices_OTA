@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1567764239,
-      "filename": "lineage-14.1-20190906-UNOFFICIAL-alice.zip",
-      "id": "01a7d2ea3023cd3b527ab6f793ee134b",
+      "datetime": 1574187405,
+      "filename": "lineage-14.1-20191119-UNOFFICIAL-alice.zip",
+      "id": "37974327e4ec1db144d7030015e56166",
       "romtype": "unofficial",
-      "size": 610250402,
-      "url": "https://sourceforge.net/projects/darkjoker360-developements/files/Huawei/P8%20Lite/Nougat/lineage-14.1-20190906-UNOFFICIAL-alice.zip/download",
+      "size": 611693483,
+      "url": "https://sourceforge.net/projects/darkjoker360-developements/files/Huawei/P8%20Lite/Nougat/lineage-14.1-20191119-UNOFFICIAL-alice.zip/download",
       "version": "14.1"
     }
   ]
