@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1587115521,
-      "filename": "lineage-15.1-20200417-UNOFFICIAL-hi6250.zip",
-      "id": "0db626b70b80f60a029e95d7294ca96d",
+      "datetime": 1590604960,
+      "filename": "lineage-15.1-20200527-UNOFFICIAL-hi6250.zip",
+      "id": "a1219274a5834305b7d15d07cc17dc40",
       "romtype": "unofficial",
-      "size": 509900190,
-      "url": "https://sourceforge.net/projects/darkjoker360-developements/files/Huawei/P10%20Lite/Oreo/LineageOS/lineage-15.1-20200417-UNOFFICIAL-hi6250.zip/download",
+      "size": 511436143,
+      "url": "https://sourceforge.net/projects/darkjoker360-developements/files/Huawei/P10%20Lite/Oreo/LineageOS/lineage-15.1-20200527-UNOFFICIAL-hi6250.zip/download",
       "version": "15.1"
     }
   ]
