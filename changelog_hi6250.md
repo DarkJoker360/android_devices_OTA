@@ -1,3 +1,10 @@
+          17-07-2020
+* Synced with latest LineageOS 15.1 source code
+* Merged July 2020 security patches
+
+          06-2020
+* June 2020 security patches have been previously implemented in May release
+
           27-05-2020
 * Synced with latest LineageOS 15.1 source code
 * Merged May 2020 security patches
