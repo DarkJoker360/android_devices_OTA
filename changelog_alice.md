@@ -1,4 +1,9 @@
-        05 - 05 - 2020
+        26 - 07 - 2020
+* Synced with latest LineageOS 14.1 source code
+* Merged July 2020 security patches
+* Enabled old omx libs hacks
+
+        05 - 06 - 2020
 * Synced with latest LineageOS 14.1 source code
 * Merged June 2020 security patches
 
