@@ -1,3 +1,8 @@
+        17 - 08 - 2020
+* Synced with latest LineageOS 14.1 source code
+* Merged August 2020 security patches
+* Fixed camera crashes
+
         26 - 07 - 2020
 * Synced with latest LineageOS 14.1 source code
 * Merged July 2020 security patches
