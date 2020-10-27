@@ -1,3 +1,12 @@
+          27-10-2020
+* Synced with latest LineageOS 15.1 source code
+* Added aptX support
+* Fixed BT media playback issues
+* Fixed higher low brightness
+* Merged October 2020 security patches
+* Merged September 2020 security patches
+* Merged August 2020 security patches
+
           17-07-2020
 * Synced with latest LineageOS 15.1 source code
 * Merged July 2020 security patches
