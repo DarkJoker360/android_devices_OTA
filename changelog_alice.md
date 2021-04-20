@@ -1,3 +1,12 @@
+        19 - 04 - 2021
+* Synced with latest LineageOS 14.1 source code
+* Merged April 2021 security patches
+* Fixed incorrect power profile
+* Fixed ui lags
+* Fixed some permissions
+* Updated dexpreopt
+* Optimized the product model recognition
+
         30 - 10 - 2020
 * Synced with latest LineageOS 14.1 source code
 * Merged October 2020 security patches
