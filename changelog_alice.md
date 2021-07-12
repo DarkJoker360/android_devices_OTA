@@ -1,4 +1,8 @@
-        16 - 04 - 2021
+        11 - 07 - 2021
+* Synced with latest LineageOS 14.1 source code
+* Merged July 2021 security patches
+
+        16 - 06 - 2021
 * Synced with latest LineageOS 14.1 source code
 * Merged June 2021 security patches
 
